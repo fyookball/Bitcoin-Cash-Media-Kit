@@ -13,6 +13,7 @@ Pantone: 11C
 Fonts: Ubuntu, Ubuntu Italic, Kerning -50
 
 Original Orange Hex: #f7941d
+CMYK(0,40,88,3)
 Pantone: 1375C
 
 
@@ -31,6 +32,4 @@ http://resizeimage.net/
 http://www.picresize.com/
 
 http://www.simpleimageresizer.com/
-
-BCH Donations
-1EQGBKv25C7dUARbjZd6adXXZWRbX7SvY4
+ 
